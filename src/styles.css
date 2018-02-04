@@ -1,1 +1,64 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background: #F4F5FA;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #004665;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #004665;
+}
+
+p {
+    color: #707070;
+}
+
+h2 {
+    font-size: 22pt;
+    font-weight: 900;
+}
+
+.ion {
+    font-size: 20pt;
+    line-height: 25pt;
+}
+
+/*Input forms*/
+input.form-control {
+    padding: 20px 15px;
+}
+
+input.form-control:focus {
+    border-color: #004665;
+    opacity: 0.8;
+}
+
+.mdl-button {
+    width: 200px;
+    height: 40px;
+    text-transform: none;
+    font-weight: 700;
+}
+
+.moom-bt-primary {
+    background: #7DDCAA !important;
+}
+
+.moom-bt-primary:hover {
+    background: rgb(82, 212, 143) !important;
+}
+
+
+
+
+

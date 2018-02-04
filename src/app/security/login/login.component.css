@@ -1,0 +1,25 @@
+.login {
+    position: absolute;
+    top: 15%;
+    bottom: 50%;
+}
+
+.login form {
+    margin: 20px 0px 0px 0px;
+}
+
+.login label {
+    display: none;
+}
+
+.login p {
+    margin-top: -40px;
+}
+
+.login h2 {
+    margin-top: 60px;
+}
+
+.login p {
+    margin-bottom: 40px;
+}
